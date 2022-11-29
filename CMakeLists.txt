@@ -20,6 +20,7 @@ file (GLOB PYTHON_FILES "${CMAKE_SOURCE_DIR}/src/python/*.cpp" "${CMAKE_SOURCE_D
 source_group(TREE ${CMAKE_CURRENT_SOURCE_DIR} FILES ${SOURCE_FILES} ${HEADER_FILES} ${PYTHON_FILES} )
 
 add_library(FASTWFC_LIB ${SOURCE_FILES} ${HEADER_FILES})
+set_target_properties(FASTWFC_LIB PROPERTIES LINKER_LANGUAGE CXX)
 
 
 #add_executable(${PROJECT_NAME} src/main.cpp)
