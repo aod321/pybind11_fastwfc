@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/yinzi/pybind11_fastwfc -B /Users/yinzi/pybind11_fastwfc/cmake-build-release
+-- pybind11 v2.9.2 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/yinzi/pybind11_fastwfc/cmake-build-release

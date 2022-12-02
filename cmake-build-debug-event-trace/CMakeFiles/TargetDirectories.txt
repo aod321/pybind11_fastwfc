@@ -1,0 +1,6 @@
+/Users/yinzi/pybind11_fastwfc/cmake-build-debug-event-trace/CMakeFiles/FASTWFC_LIB.dir
+/Users/yinzi/pybind11_fastwfc/cmake-build-debug-event-trace/CMakeFiles/fastwfc.dir
+/Users/yinzi/pybind11_fastwfc/cmake-build-debug-event-trace/CMakeFiles/edit_cache.dir
+/Users/yinzi/pybind11_fastwfc/cmake-build-debug-event-trace/CMakeFiles/rebuild_cache.dir
+/Users/yinzi/pybind11_fastwfc/cmake-build-debug-event-trace/pybind11/CMakeFiles/edit_cache.dir
+/Users/yinzi/pybind11_fastwfc/cmake-build-debug-event-trace/pybind11/CMakeFiles/rebuild_cache.dir
